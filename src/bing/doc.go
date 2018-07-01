@@ -1,7 +1,10 @@
 
 
 /*
-需要事先安装sox:	sudo apt-get install sox
+需要事先安装sox:	
+sudo apt-get install sox
+sudo apt-get install sox libsox-fmt-all
+
 保存目录默认为 $HOME/Music/Pronunciation/bing
 文件名默认为 dictname_US.mp3
 
